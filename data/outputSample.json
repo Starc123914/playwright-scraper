@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://example.com/products/widget-1",
+    "title": "Widget 1 - Example Store",
+    "content": "The Widget 1 is a versatile product for home and office use.",
+    "links": [
+      "https://example.com/products/widget-2",
+      "https://example.com/contact"
+    ],
+    "statusCode": 200,
+    "timestamp": 1731326400000,
+    "customData": {
+      "category": "widgets"
+    },
+    "proxyInfo": {
+      "url": "http://proxy.example:8000"
+    },
+    "error": null
+  }
+]
